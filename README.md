@@ -7,7 +7,7 @@ There are numerous missing data in this challenge, the key to getting higher acc
 ![jpg](data/results.png)
 
 ## Getting started
-Open `WiDS_Patient_Survival.ipynb` on a jupyter notebook environment. Alternatively, you can view the codes in Google Colab [![Open In Colab](https://colab.research.google.com/drive/1SyQV6VI7hIbXPwTPOzhsOOoGgqRXwR2w?usp=sharing). The notebook consists of further technical details.
+Open `WiDS_Patient_Survival.ipynb` on a jupyter notebook environment. Alternatively, you can view the codes in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SyQV6VI7hIbXPwTPOzhsOOoGgqRXwR2w?usp=sharing). The notebook consists of further technical details.
 
 ## Improvements
 Could potentially explore the use of Deep Learning Techniques.
